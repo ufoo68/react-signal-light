@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-signal-light/static/css/main.e789b65c.chunk.css",
-    "main.js": "/react-signal-light/static/js/main.ae776b09.chunk.js",
-    "main.js.map": "/react-signal-light/static/js/main.ae776b09.chunk.js.map",
+    "main.js": "/react-signal-light/static/js/main.86ff6fa7.chunk.js",
+    "main.js.map": "/react-signal-light/static/js/main.86ff6fa7.chunk.js.map",
     "runtime-main.js": "/react-signal-light/static/js/runtime-main.06563785.js",
     "runtime-main.js.map": "/react-signal-light/static/js/runtime-main.06563785.js.map",
-    "static/js/2.b51f6d94.chunk.js": "/react-signal-light/static/js/2.b51f6d94.chunk.js",
-    "static/js/2.b51f6d94.chunk.js.map": "/react-signal-light/static/js/2.b51f6d94.chunk.js.map",
+    "static/js/2.f89a5cab.chunk.js": "/react-signal-light/static/js/2.f89a5cab.chunk.js",
+    "static/js/2.f89a5cab.chunk.js.map": "/react-signal-light/static/js/2.f89a5cab.chunk.js.map",
     "index.html": "/react-signal-light/index.html",
-    "precache-manifest.5f71c7c50cb75e124ba7431628a3e092.js": "/react-signal-light/precache-manifest.5f71c7c50cb75e124ba7431628a3e092.js",
+    "precache-manifest.6075dea4a7e17582d17530af09533834.js": "/react-signal-light/precache-manifest.6075dea4a7e17582d17530af09533834.js",
     "service-worker.js": "/react-signal-light/service-worker.js",
     "static/css/main.e789b65c.chunk.css.map": "/react-signal-light/static/css/main.e789b65c.chunk.css.map",
     "static/media/off.png": "/react-signal-light/static/media/off.afeb9266.png",
@@ -16,8 +16,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.06563785.js",
-    "static/js/2.b51f6d94.chunk.js",
+    "static/js/2.f89a5cab.chunk.js",
     "static/css/main.e789b65c.chunk.css",
-    "static/js/main.ae776b09.chunk.js"
+    "static/js/main.86ff6fa7.chunk.js"
   ]
 }
