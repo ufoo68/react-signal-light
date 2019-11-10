@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-signal-light/static/css/main.e789b65c.chunk.css",
-    "main.js": "/react-signal-light/static/js/main.7346830c.chunk.js",
-    "main.js.map": "/react-signal-light/static/js/main.7346830c.chunk.js.map",
+    "main.js": "/react-signal-light/static/js/main.5bcb7a60.chunk.js",
+    "main.js.map": "/react-signal-light/static/js/main.5bcb7a60.chunk.js.map",
     "runtime-main.js": "/react-signal-light/static/js/runtime-main.06563785.js",
     "runtime-main.js.map": "/react-signal-light/static/js/runtime-main.06563785.js.map",
     "static/js/2.70f83250.chunk.js": "/react-signal-light/static/js/2.70f83250.chunk.js",
     "static/js/2.70f83250.chunk.js.map": "/react-signal-light/static/js/2.70f83250.chunk.js.map",
     "index.html": "/react-signal-light/index.html",
-    "precache-manifest.39e3720102b668ef5ed1813201a3b9a8.js": "/react-signal-light/precache-manifest.39e3720102b668ef5ed1813201a3b9a8.js",
+    "precache-manifest.12e103b6268e606045c63464722693ab.js": "/react-signal-light/precache-manifest.12e103b6268e606045c63464722693ab.js",
     "service-worker.js": "/react-signal-light/service-worker.js",
     "static/css/main.e789b65c.chunk.css.map": "/react-signal-light/static/css/main.e789b65c.chunk.css.map",
     "static/media/off.png": "/react-signal-light/static/media/off.afeb9266.png",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.06563785.js",
     "static/js/2.70f83250.chunk.js",
     "static/css/main.e789b65c.chunk.css",
-    "static/js/main.7346830c.chunk.js"
+    "static/js/main.5bcb7a60.chunk.js"
   ]
 }
