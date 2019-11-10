@@ -6,15 +6,31 @@
     position:relative;
     height: 380px;
   }
+
   .light img {
     position:absolute;
     left:0;
     right:0;
     bottom:0;
     margin:auto;
-}
+  }
+
+  .lightValue {
+    font-size: 2rem;
+  }
+
+  .slider {
+    margin: 20px 0;
+  }
+
+  .sliderBar {
+    height: 80px;
+    width: 500px;
+  }
 
   .button {
-    margin-top: 20px
+    font-size: 1.5rem;
+    height: 40px;
+    width: 80px;
   }
 }
