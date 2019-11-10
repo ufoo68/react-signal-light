@@ -74,7 +74,7 @@ const App: FC = () => {
         {lightValue}
       </div>
       <div className="slider">
-        <input type="range" defaultValue={512} min={0} max={1023} className="sliderBar" onChange={(e) => {
+        <input type="range" defaultValue={512} min={200} max={1023} className="sliderBar" onChange={(e) => {
           setLightValue(e.target.value)
         }}/>
       </div>
