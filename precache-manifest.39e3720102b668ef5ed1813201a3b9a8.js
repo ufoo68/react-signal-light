@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9ebdd304dcfc4868b0367465dca5aa57",
+    "revision": "b0bd2096a06ff47d1787c942b6eb5065",
     "url": "/react-signal-light/index.html"
   },
   {
-    "revision": "4d1fbeba9db239d75eb3",
+    "revision": "84c9ecbebe4aa77921c4",
     "url": "/react-signal-light/static/css/main.e789b65c.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-signal-light/static/js/2.70f83250.chunk.js"
   },
   {
-    "revision": "4d1fbeba9db239d75eb3",
-    "url": "/react-signal-light/static/js/main.e16e206d.chunk.js"
+    "revision": "84c9ecbebe4aa77921c4",
+    "url": "/react-signal-light/static/js/main.7346830c.chunk.js"
   },
   {
     "revision": "c700b2008711f31350a6",
